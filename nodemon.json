@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_PW":"roadmap-api",
+        "JWT_KEY": "secret"
+    }
+}
